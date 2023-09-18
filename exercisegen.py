@@ -125,7 +125,7 @@ print(" Key:       " + key)
 print(" Zone:      " + zone)
 print(" Technique: " + get_random_technique())
 
-# Generate and answers
+# Generate and print answers
 print_answers = input("\nDo you want the answer? (yes/no): ")
 
 if print_answers.lower() == "yes":
